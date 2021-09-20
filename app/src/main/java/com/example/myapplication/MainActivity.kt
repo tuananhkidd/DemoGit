@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val s = "ths is profile branch"
+        val s = "this is home branch"
+
+        val s1 = "ths is profile branch"
     }
 }
